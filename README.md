@@ -1,6 +1,6 @@
 # h-w
-Just a testing ground.
+Just a testing ground and homework from previous classes.
 
-Hi!
+Only python work has been uploaded.
 
-This is just a simple testing ground for me to get used to GIT-Hub while I set up this account.
+Note to self: Find external drive with Java and Raspberry PI work.
